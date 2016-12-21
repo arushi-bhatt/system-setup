@@ -1,0 +1,34 @@
+1.http://askubuntu.com/questions/471847/brightness-fn-key-shortcut-doesnt-work-on-asus-laptop
+
+2. install ruby-dev first
+
+sudo apt-get install ruby-dev
+
+sudo apt-get install git
+
+3. linuxbrew
+
+	ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Linuxbrew/install/master/install)"
+	
+-- use .bash_rc instead of .bash_profile for adding path
+
+
+4. rbenv
+
+brew update 
+brew install rbenv
+
+6. java 
+ sudo apt-get install openjdk-8-jdk
+c
+
+8. active-orient
+
+	sudo gem install activemodel -v 4.2.6	
+	sudo gem install active-orient -v 0.3
+
+jruby orientdb 
+
+7. sublime
+
+9. 
