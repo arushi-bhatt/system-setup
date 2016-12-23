@@ -31,4 +31,15 @@ jruby orientdb
 
 7. sublime
 
-9. 
+9. pry
+
+10. how to set credentials
+	sudo apt-get install libgnome-keyring-dev
+
+https://launchpad.net/~damien-moore/+archive/ubuntu/codeblocks-stable
+
+        sudo make --directory=/usr/share/doc/git/contrib/credential/gnome-keyring
+
+	git config --global credential.helper /usr/share/doc/git/contrib/credential/gnome-keyring/git-credential-gnome-keyring
+
+
