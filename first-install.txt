@@ -43,3 +43,9 @@ https://launchpad.net/~damien-moore/+archive/ubuntu/codeblocks-stable
 	git config --global credential.helper /usr/share/doc/git/contrib/credential/gnome-keyring/git-credential-gnome-keyring
 
 
+
+11. python
+12. compiz-config
+13. visual studio code
+
+
